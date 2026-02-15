@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, My Channel
-https://otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/pnes4dv2ag/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd?|drmScheme=clearkey&drmLicense=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/username/repository/main/logo.png", BALLONTV LIVE
+http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
